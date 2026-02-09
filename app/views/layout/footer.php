@@ -4,7 +4,7 @@
             <p style="font-size: 0.8rem; color: #64748b; margin-top: 0.5rem;">Panel de Administración - Segundo Parcial Desarrollo Web</p>
         </div>
     </footer>
-
+    
     <script src="https://proyecto2-assets.netlify.app/js/main.js"></script>
 </body>
 </html>
